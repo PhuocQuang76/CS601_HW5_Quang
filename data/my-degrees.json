@@ -1,0 +1,34 @@
+{
+    "degrees":[
+        {
+            "School": "Boston University",
+            "Major": "Web Application Development",
+            "Type": "Master",
+            "Year": "2020"
+        },
+        {
+            "School": "Los Angeles Community College",
+            "Major": "Computer Science",
+            "Type": "AA",
+            "Year": "2018"
+        },
+        {
+            "School": "Tokyo Conputer college",
+            "Major": "Computer Science",
+            "Type": "AA",
+            "Year": "2007"
+        },
+        {
+            "School": "Tokyo Business college",
+            "Major": "Marketing",
+            "Type": "AA",
+            "Year": "2005"
+        },
+        {
+            "School": "Information Technology & Foreign language",
+            "Major": "English and Marketing",
+            "Type": "BS",
+            "Year": "2001"
+        }
+    ]
+}
